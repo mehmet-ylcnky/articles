@@ -1,2 +1,4 @@
-# articles
-Published articles repository
+# Articles
+
+These are the published articles
+
