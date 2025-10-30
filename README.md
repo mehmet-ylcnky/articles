@@ -4,6 +4,7 @@ This repo lsats the articles which I publish about cloud, data engineering and m
 
 | Article | Date |
 |---------|------|
+| [Human Spark vs. Artificial Speed](https://www.linkedin.com/feed/update/urn:li:ugcPost:7389776547794055169/) | 2025-10-30 |
 | [Why does your AWS multi-account strategy matter more than you think](https://www.linkedin.com/feed/update/urn:li:activity:7371262715450978305/) | 2025-09-09 |
 | [Building Resilient Applications with DynamoDB Global Tables](https://www.linkedin.com/feed/update/urn:li:ugcPost:7366919653454979073/) | 2025-08-28 |
 | [The Trifecta of AWS S3 Cost Optimization: A 10-Year Analysis That Could Save Your Organization Millions](https://www.linkedin.com/feed/update/urn:li:activity:7345914284599562242/) | 2025-07-01 |
