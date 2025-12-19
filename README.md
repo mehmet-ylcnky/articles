@@ -4,6 +4,7 @@ This repo lsats the articles which I publish about cloud, data engineering and m
 
 | Article | Date |
 |---------|------|
+| [Introducing BorrowScope: Making Rust's Ownership System Visible" Could Cost You Thousands](https://www.linkedin.com/feed/update/urn:li:ugcPost:7407928315648503808/) | 2025-12-20 |
 | [Why AWS "ALB is Cheaper Than API Gateway" Could Cost You Thousands](https://www.linkedin.com/feed/update/urn:li:activity:7390891343386079232/) | 2025-11-03 |
 | [Human Spark vs. Artificial Speed](https://www.linkedin.com/feed/update/urn:li:ugcPost:7389776547794055169/) | 2025-10-30 |
 | [Why does your AWS multi-account strategy matter more than you think](https://www.linkedin.com/feed/update/urn:li:activity:7371262715450978305/) | 2025-09-09 |
