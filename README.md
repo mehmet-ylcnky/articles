@@ -4,6 +4,7 @@ This repo lsats the articles which I publish about cloud, data engineering and m
 
 | Article | Date |
 |---------|------|
+| [**`borrowscope-macro`**: Automatic Instrumentation](https://mehmet-ylcnky.github.io/BorrowScope/borrowscope-macro-intro/) | 2026-01-14 |
 | [**`borrowscope-runtime`**: Runtime Instrumentation and Analysis of Rust's Ownership System](https://mehmet-ylcnky.github.io/BorrowScope/borrowscope-runtime/) | 2026-01-04 |
 | [Introducing BorrowScope: Making Rust's Ownership System Visible](https://www.linkedin.com/feed/update/urn:li:ugcPost:7407928315648503808/) | 2025-12-20 |
 | [Why AWS "ALB is Cheaper Than API Gateway" Could Cost You Thousands](https://www.linkedin.com/feed/update/urn:li:activity:7390891343386079232/) | 2025-11-03 |
