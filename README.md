@@ -4,6 +4,7 @@ This repo lsats the articles which I publish about cloud, data engineering and m
 
 | Article | Date |
 |---------|------|
+| [**`borrowscope-analyzer`**: Bridging the Type Information Gap](https://mehmet-ylcnky.github.io/BorrowScope/borrowscope-analyzer-whitepaper/) | 2026-03-03 |
 | [**`borrowscope-macro`**: Rust's Type Information Barrier](https://mehmet-ylcnky.github.io/BorrowScope/borrowscope-macro-whitepaper/) | 2026-01-28 |
 | [**`borrowscope-macro`**: Automatic Instrumentation](https://mehmet-ylcnky.github.io/BorrowScope/borrowscope-macro-intro/) | 2026-01-14 |
 | [**`borrowscope-runtime`**: Runtime Instrumentation and Analysis of Rust's Ownership System](https://mehmet-ylcnky.github.io/BorrowScope/borrowscope-runtime/) | 2026-01-04 |
