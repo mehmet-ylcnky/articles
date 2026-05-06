@@ -4,7 +4,7 @@ This repo lsats the articles which I publish about cloud, data engineering and m
 
 | Article | Date |
 |---------|------|
-| [**`borrowscope-analyzer`**: Eliminating Heuristics from Rust Procedural Macros Through Pre-Build Semantic Analysis]([https://mehmet-ylcnky.github.io/BorrowScope/borrowscope-analyzer-whitepaper/](https://mehmet-ylcnky.github.io/BorrowScope/eliminating-heuristics-from-rust-proc-macros/)) | 2026-05-06 |
+| [**`borrowscope-analyzer`**: Eliminating Heuristics from Rust Procedural Macros Through Pre-Build Semantic Analysis](https://mehmet-ylcnky.github.io/BorrowScope/eliminating-heuristics-from-rust-proc-macros/)) | 2026-05-06 |
 | [**`borrowscope-analyzer`**: Bridging the Type Information Gap](https://mehmet-ylcnky.github.io/BorrowScope/borrowscope-analyzer-whitepaper/) | 2026-03-03 |
 | [**`borrowscope-macro`**: Rust's Type Information Barrier](https://mehmet-ylcnky.github.io/BorrowScope/borrowscope-macro-whitepaper/) | 2026-01-28 |
 | [**`borrowscope-macro`**: Automatic Instrumentation](https://mehmet-ylcnky.github.io/BorrowScope/borrowscope-macro-intro/) | 2026-01-14 |
