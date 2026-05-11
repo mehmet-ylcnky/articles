@@ -1,6 +1,6 @@
 # Articles
 
-This repo lsats the articles which I publish about cloud, data engineering and my development projects
+This repo lists the articles which I publish about cloud, data engineering and my development projects
 
 | Article | Date |
 |---------|------|
